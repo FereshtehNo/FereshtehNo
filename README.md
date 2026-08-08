@@ -4,11 +4,11 @@
 
 **Structural Bioinformatics • AI & Deep Learning for Protein Science • Protein Design**
 
-[![GitHub](https://img.shields.io/badge/GitHub-FereshtehNo-181717?style=flat&logo=github)](https://github.com/FereshtehNo)
+[![GitHub](https://img.shields.io/badge/GitHub-FereshtehNo-181717?style=flat&logo=github&logoColor=white)](https://github.com/FereshtehNo)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Tz5vJkQAAAAJ&hl=en)
-[![LinkedIn](https://www.linkedin.com/in/fereshteh-noroozi-a90886118/)
-[![ResearchGate](https://www.researchgate.net/profile/Fereshteh-Noroozi)
-[![YouTube](https://www.youtube.com/@Fereshteh-Bioinformatics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fereshteh-noroozi-a90886118/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fereshteh-Noroozi)
+[![YouTube](https://img.shields.io/badge/YouTube-Bioinformatics-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Fereshteh-Bioinformatics)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fereshtehnorouzi3@gmail.com)
 
 ---
