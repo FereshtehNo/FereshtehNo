@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Fereshteh Noroozi 👋
 
-<!--
-**FereshtehNo/FereshtehNo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Computational Biologist | PhD Researcher in Bioinformatics
 
-Here are some ideas to get you started:
+**Structural Bioinformatics • AI & Deep Learning for Protein Science • Protein Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-FereshtehNo-181717?style=flat&logo=github)](https://github.com/FereshtehNo)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Tz5vJkQAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fereshteh-noroozi-a90886118/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fereshteh-Noroozi)
+[![YouTube](https://img.shields.io/badge/YouTube-Bioinformatics-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Fereshteh-Bioinformatics)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fereshtehnorouzi3@gmail.com)
+
+---
+
+### 👩‍💻 About Me
+
+I'm a **PhD researcher in Bioinformatics at the University of Tehran**, working at the intersection of **computational biology, structural bioinformatics, artificial intelligence, machine learning, and deep learning**.
+
+My research focuses on applying computational and AI-driven approaches to understand **protein structure, function, dynamics, and design**.
+
+### 🔬 Research Interests
+
+- Structural Bioinformatics
+- AI & Deep Learning for Protein Science
+- Protein Structure & Dynamics
+- Protein Design & Engineering
+- Molecular Dynamics Simulation
+- Molecular Docking & Modeling
+- Computational Drug Discovery
+- Bioinformatics & Biological Data Analysis
+
+### 🛠️ Skills & Tools
+
+**Programming & Data Analysis**  
+`Python` • `R` • `SQL` • `Linux` • `Tcl`
+
+**AI & Machine Learning**  
+`Machine Learning` • `Deep Learning` • `AI for Protein Science`
+
+**Computational & Structural Biology**  
+`VMD` • `Molecular Dynamics` • `Molecular Docking` • `Protein Structure Analysis` • `Bioinformatics`
+
+---
+
+### 📫 Let's Connect
+
+I'm interested in **research collaborations and opportunities** in computational biology, structural bioinformatics, AI for protein science, and protein design.
+
+📧 **Email:** [fereshtehnorouzi3@gmail.com](mailto:fereshtehnorouzi3@gmail.com)
