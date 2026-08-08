@@ -87,4 +87,4 @@ I am particularly interested in **deep learning models for de novo protein desig
 ![Protein Structure](https://img.shields.io/badge/Protein-Structure%20Analysis-1565C0?style=flat)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Computational%20Biology-2E7D32?style=flat)
 
-*
+
