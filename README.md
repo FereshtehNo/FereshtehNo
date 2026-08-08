@@ -4,7 +4,7 @@
 
 ### 🧬 Computational Biologist | PhD Researcher in Bioinformatics
 
-**Structural Bioinformatics • Deep Learning • Protein Design & Engineering • Green Biotechnology**
+**Structural Bioinformatics • AI & Deep Learning for Protein Science • Protein Design & Engineering • Green Biotechnology**
 
 <br>
 
@@ -23,9 +23,9 @@
 
 I'm a **PhD researcher in Bioinformatics at the University of Tehran**, working at the intersection of **computational biology, structural bioinformatics, artificial intelligence, machine learning, and deep learning**.
 
-My research focuses on developing and applying computational and AI-driven approaches for **protein structure, function, dynamics, design, and engineering**.
+My research focuses on developing and applying computational and AI-driven approaches for **protein structure, function, dynamics, design, and engineering**, as well as building **reproducible bioinformatics and deep-learning pipelines using Python and Google Colab**.
 
-I am particularly interested in **deep learning models for de novo protein design and protein engineering**, as well as the computational design and discovery of **plastic-degrading enzymes** and other biocatalysts for **green biotechnology and sustainable industrial applications**.
+I am particularly interested in **deep learning models for de novo protein design and protein engineering**, alongside the computational design and discovery of **plastic-degrading enzymes** and other biocatalysts for **green biotechnology, sustainable bioprocessing, and environmentally friendly industrial applications**.
 
 ---
 
@@ -40,7 +40,8 @@ I am particularly interested in **deep learning models for de novo protein desig
 ⚛️ **Protein Structure & Molecular Dynamics**  
 🎯 **Molecular Docking & Molecular Modeling**  
 💊 **Computational Drug Discovery**  
-📊 **Bioinformatics & Biological Data Analysis**
+📊 **Bioinformatics & Biological Data Analysis**  
+🔁 **Bioinformatics & Deep Learning Pipeline Development**
 
 ---
 
@@ -52,22 +53,26 @@ I am particularly interested in **deep learning models for de novo protein desig
 ![Structural Bioinformatics](https://img.shields.io/badge/Structural-Bioinformatics-007ACC?style=flat)
 ![Enzyme Design](https://img.shields.io/badge/Enzyme-Design-00897B?style=flat)
 ![Green Biotechnology](https://img.shields.io/badge/Green-Biotechnology-4CAF50?style=flat)
-![Plastic Degradation](https://img.shields.io/badge/Plastic-Degradation-00A86B?style=flat)
+![Plastic Degradation](https://img.shields.io/badge/Plastic--Degrading-Enzymes-00A86B?style=flat)
 ![Molecular Dynamics](https://img.shields.io/badge/Molecular-Dynamics-8E44AD?style=flat)
+![Pipeline Development](https://img.shields.io/badge/Computational-Pipeline%20Development-1565C0?style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Workflows-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming & Data Analysis
+### 💻 Programming, Pipelines & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Tcl](https://img.shields.io/badge/Tcl-Scripting-1E5B8C?style=flat)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Pipelines-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Bioinformatics Pipelines](https://img.shields.io/badge/Bioinformatics-Pipeline%20Development-2E7D32?style=flat)
 
-### 🤖 AI & Computational Biology
+### 🤖 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF9800?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep-Learning-FF6F00?style=flat)
@@ -86,6 +91,6 @@ I am particularly interested in **deep learning models for de novo protein desig
 
 ## 🤝 Open to Collaboration
 
-I'm interested in research collaborations in:
+I'm interested in research collaborations and opportunities in:
 
-**🧠 AI & Deep Learning for Protein Science • 🧬 De Novo Protein Design • 🧪 Protein Engineering • ♻️ Plastic-Degrading Enzyme Design • 🌱 Green Biotechnology • ⚛️ Structural Bioinformatics**
+**🧠 AI & Deep Learning for Protein Science • 🧬 De Novo Protein Design • 🧪 Protein Engineering • ♻️ Plastic-Degrading Enzyme Design • 🌱 Green Biotechnology • ⚛️ Structural Bioinformatics • 🔁 Computational Pipeline Development**
