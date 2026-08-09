@@ -45,7 +45,7 @@ I also develop reproducible computational workflows and bioinformatics pipelines
   *Environmental Technology & Innovation*, 2025  
   [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat&logo=doi)](https://doi.org/10.1016/j.eti.2025.104568)
 
-- **Computational Insights into the Selecting Mechanism of α-Amylase Immobilized on Cellulose Nanocrystals**  
+- **Computational Insights into the Selecting Mechanism of α‑Amylase Immobilized on Cellulose Nanocrystals: Unveiling the Potential of α‑Amylases Immobilized for Efficient Poultry Feed Hydrolysis**  
   *Bioconjugate Chemistry*, 2023  
   [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat&logo=doi)](https://doi.org/10.1021/acs.bioconjchem.3c00304)
 
