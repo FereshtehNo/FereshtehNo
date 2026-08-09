@@ -35,6 +35,30 @@ My current research broadly explores **de novo protein design and protein engine
 I also develop reproducible computational workflows and bioinformatics pipelines using Python, Linux, and Google Colab.
 
 ---
+## Selected Publications
+
+- **Artificial intelligence in metalloprotein binding site prediction: A systematic review bridging bioinformatics and biotechnology**  
+  *International Journal of Biological Macromolecules*, 2025  
+  [DOI](https://doi.org/10.1016/j.ijbiomac.2025.146666)
+
+- **Sustainable solutions through metagenomic laccases: Industrial and environmental perspectives**  
+  *Environmental Technology & Innovation*, 2025  
+  [DOI](https://doi.org/10.1016/j.eti.2025.104568)
+
+- **Computational Insights into the Selecting Mechanism of α-Amylase Immobilized on Cellulose Nanocrystals: Unveiling the Potential of α-Amylases Immobilized for Efficient Poultry Feed Hydrolysis**  
+  *Bioconjugate Chemistry*, 2023  
+  [DOI](https://doi.org/10.1021/acs.bioconjchem.3c00304)
+
+- **Reconstruction of the unbinding pathways of noncovalent SARS-CoV and SARS-CoV-2 3CLpro inhibitors using unbiased molecular dynamics simulations**  
+  *PLOS ONE*, 2022  
+  [DOI](https://doi.org/10.1371/journal.pone.0263251)
+
+<p>
+  <a href="https://orcid.org/0009-0005-0215-8930">ORCID</a> ·
+  <a href="https://scholar.google.com/citations?user=Tz5vJkQAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://www.researchgate.net/profile/Fereshteh-Noroozi">ResearchGate</a>
+</p>
+
 
 ## Research Interests
 
